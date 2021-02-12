@@ -2,7 +2,11 @@
 
 Check this out [About Me](about.md)
 
-``` math
+``` latex
 \frac{1}{x}
 
 ```
+$$
+\frac{1}{x}
+
+$$
